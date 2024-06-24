@@ -57,3 +57,10 @@
 /area/station/cargo/miningfoundry
 	name = "\improper Mining Foundry"
 	icon_state = "mining_foundry"
+<<<<<<< Updated upstream
+=======
+
+/area/station/cargo/mining_breakroom
+	name = "\improper Mining Break Room"
+	icon_state = "mining_breakroom"
+>>>>>>> Stashed changes
